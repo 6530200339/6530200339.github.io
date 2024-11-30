@@ -13,3 +13,5 @@
 
 *[Qualitative](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
 
+[back](https://6530200339.github.io)
+
