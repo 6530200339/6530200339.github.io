@@ -5,4 +5,4 @@
 
 ![mycat](img/cat.png)
 
-[QUANLIATIVE](quanliative)
+[QUALITATIVE](qualitative)
