@@ -5,4 +5,4 @@
 
 ![mycat](img/cat.png)
 
-[AUTHENTICATION](authentication)
+[QUANLIATIVE](quanliative)
