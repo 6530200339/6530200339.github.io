@@ -1,6 +1,6 @@
 # 6530200339.github.io
 ---
-<img src="img/Myself.jpg" alt="myself" width="150">
+![Myself](img/Myself.jpg)
 
 - **ชื่อ:** นายภาณุพงศ์ ทองเชิด
 - **ชื่อเล่น:** มอส
