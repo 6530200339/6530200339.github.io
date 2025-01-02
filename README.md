@@ -14,6 +14,6 @@
 
 [E-card](E-card)
 
-[Integrity](Integrity)
+[Integrity](integrity)
 
 [BoardGame](boardgame)
