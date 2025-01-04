@@ -19,7 +19,7 @@
 
 1. [Amarin Yaowarod](https://6530200908.github.io/boardgame)
 
-2. [Punnaka Punsiri](https://qlerdev.github.io/boardgame)
+2. [Punnakan Punsiri](https://qlerdev.github.io/boardgame)
 
 3. [Kasidid Yookong](https://kasidid-y.github.io/boardgame)
 
